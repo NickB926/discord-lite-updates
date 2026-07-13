@@ -1,8 +1,8 @@
-version: 0.1.1
+version: 0.1.4
 files:
-  - url: discord-lite-0.1.1-setup.exe
-    sha512: ontMlXJoqidWItvV6qtHSoQDIwXfoHhvqTYmAqfAFDdJ9u7u1cP2yf/EIDAhj/zZ3LYMC/5vyvhDee2X2YQ3uw==
-    size: 101598234
-path: discord-lite-0.1.1-setup.exe
-sha512: ontMlXJoqidWItvV6qtHSoQDIwXfoHhvqTYmAqfAFDdJ9u7u1cP2yf/EIDAhj/zZ3LYMC/5vyvhDee2X2YQ3uw==
-releaseDate: '2026-07-13T01:39:51.621Z'
+  - url: discord-lite-0.1.4-setup.exe
+    sha512: TCjkURwKstjY2D2K/lkJbCZEBEmdxEUyE4tP1JKMRfIlkv8TVUy5NcA7K2HILt0RI+cLB8m24qdKBoXPhhAQBQ==
+    size: 101598551
+path: discord-lite-0.1.4-setup.exe
+sha512: TCjkURwKstjY2D2K/lkJbCZEBEmdxEUyE4tP1JKMRfIlkv8TVUy5NcA7K2HILt0RI+cLB8m24qdKBoXPhhAQBQ==
+releaseDate: '2026-07-13T01:59:25.161Z'
