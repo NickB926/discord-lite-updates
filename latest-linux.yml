@@ -1,12 +1,12 @@
 version: 0.2.2
 files:
   - url: https://github.com/NickB926/discord-lite-updates/releases/download/v0.2.2/discord-lite-0.2.2-linux.AppImage
-    sha512: 5yis8taF3q9ty0myY5/XvzpkICGxLGRB0URrjGoq3KzxTDmtJT9VT/C48S/YBl+ycdJC80GALjUrfmgvtrquZg==
-    size: 129868918
-    blockMapSize: 140426
+    sha512: 3tLxkqG0lajE0ohBI7XbPMyr8weGwrBfq58chzDaFEfhOPPov6uECSYYQEtrbH/Pt2NWSb7whMS20cp19d+IQw==
+    size: 129868900
+    blockMapSize: 140408
   - url: https://github.com/NickB926/discord-lite-updates/releases/download/v0.2.2/discord-lite-0.2.2-linux.deb
-    sha512: W7x2RYAqhup3tGLLlorLKK/U6Alffa16FMQlISOaQj2rC+0nf2NT1+aVwGy9BM4c9XA3dVBRURXpcmj5W8t2RA==
-    size: 101488780
+    sha512: zVj/qzBgj3wHfN5tN5BXWllucXgKtXISTzx79Ab64RchWvGXex6tm+mQ42JsXdUnf0Fpkl6Q+ewMPowHeZYqmw==
+    size: 101489064
 path: https://github.com/NickB926/discord-lite-updates/releases/download/v0.2.2/discord-lite-0.2.2-linux.AppImage
-sha512: 5yis8taF3q9ty0myY5/XvzpkICGxLGRB0URrjGoq3KzxTDmtJT9VT/C48S/YBl+ycdJC80GALjUrfmgvtrquZg==
-releaseDate: '2026-07-14T01:10:08.585Z'
+sha512: 3tLxkqG0lajE0ohBI7XbPMyr8weGwrBfq58chzDaFEfhOPPov6uECSYYQEtrbH/Pt2NWSb7whMS20cp19d+IQw==
+releaseDate: '2026-07-15T01:21:32.906Z'
