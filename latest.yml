@@ -1,8 +1,8 @@
-version: 0.3.0
+version: 0.3.2
 files:
-  - url: discord-lite-0.3.0-setup.exe
-    sha512: 8tdN6N55vKCSJ+9QlquZYsVKQ923f3V9FFPNtt4bwJ+/A8b/Rz7ciySfpJcKrwzM7+W+dCPylxviJXlcg2U4nQ==
-    size: 101707692
-path: discord-lite-0.3.0-setup.exe
-sha512: 8tdN6N55vKCSJ+9QlquZYsVKQ923f3V9FFPNtt4bwJ+/A8b/Rz7ciySfpJcKrwzM7+W+dCPylxviJXlcg2U4nQ==
-releaseDate: '2026-07-19T14:06:25.297Z'
+  - url: discord-lite-0.3.2-setup.exe
+    sha512: hOuro6F9PZ4H5SlcqUNAt8ipuPZj72DiA9yhwSfm8zvfl7EuvFecaBPPISZoQFG3rHh5X/iVZ9MjNZaOxwrSaw==
+    size: 101714022
+path: discord-lite-0.3.2-setup.exe
+sha512: hOuro6F9PZ4H5SlcqUNAt8ipuPZj72DiA9yhwSfm8zvfl7EuvFecaBPPISZoQFG3rHh5X/iVZ9MjNZaOxwrSaw==
+releaseDate: '2026-07-19T18:59:35.477Z'
